@@ -23,7 +23,7 @@ pkg upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/FlutterGenerator/CHEN2.0.git
+git clone https://github.com/Sahil81800/ALLPAK.20.git
 ```
 ```
 cd ALLTOOL.20
