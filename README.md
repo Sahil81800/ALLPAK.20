@@ -26,12 +26,12 @@ pkg install git -y
 git clone https://github.com/FlutterGenerator/CHEN2.0.git
 ```
 ```
-cd CHEN2.0
+cd ALLTOOL.20
 ```
 ```
 bash setup
 ```
-## Note: Next time when entering the tool, type " cd CHEN2.0 bash setup" the tool will start automatically.
+## Note: Next time when entering the tool, type " cd ALLTOOL.20 bash setup" the tool will start automatically.
 
 TOOL KEY:-
 ```
